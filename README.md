@@ -15,3 +15,4 @@ Create a client program which will talk to the server and run on the client mach
 5.
 The client program should provide an interface between the client user and the server.
 
+Refer the attached report.pdf file for complete details.
